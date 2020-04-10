@@ -27,6 +27,6 @@ The project can be viewed in the browser at
 - http://localhost:3000
 
 ### Screeshots
-
+![alt my_reads screenshot](p1.jpg "myreads")
 
 ###### Copyright Saba722
